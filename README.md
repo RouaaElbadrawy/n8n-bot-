@@ -25,7 +25,3 @@ The bot integrates **Google Gemini AI** with **Discord** to create an interactiv
 2. Message is sent to Gemini AI via n8n  
 3. Gemini generates a response  
 4. Response is sent back to Discord channel automatically  
-
-
-## 🙌 Acknowledgment
-Special thanks to **@[CompanyName]** for the training and guidance that inspired this project ✨  
